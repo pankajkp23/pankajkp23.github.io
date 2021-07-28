@@ -1,8 +1,9 @@
-# IDEs
+*.pyc
+.DS_Store
+*.egg-info/
+build/
+dist/
+site/
 .idea/
-
-# Hugo
-/resources/
-public/
-jsconfig.json
-node_modules/
+.tox/
+.cache/
